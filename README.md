@@ -1,3 +1,5 @@
+![ChatGPT-GoogleChrome2025-09-2316-57-44-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4d615896-a499-477b-ab70-16cb7d2d8e12)
+
 # note-mcp-server
 
 ## Setup
@@ -29,3 +31,5 @@
 
 
 6. Chat with AI
+
+![ChatGPT-GoogleChrome2025-09-2316-57-44-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4d615896-a499-477b-ab70-16cb7d2d8e12)
